@@ -3,6 +3,10 @@
 
 # Ignore data_F43 in new location
 convert_Black/data_F43/
+group_CT/CT/
+PowerBI/IncisionTime/Incision_Time
+PowerBI/find_Lastcase/Lastcase
+PowerBI/sort_Round/Data
 
 # Ignore log files
 *.log
