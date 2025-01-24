@@ -1,0 +1,8 @@
+# Ignore Virtual Environment
+.venv/
+
+# Ignore data_F43 in new location
+convert_Black/data_F43/
+
+# Ignore log files
+*.log
