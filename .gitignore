@@ -7,6 +7,8 @@ group_CT/CT/
 PowerBI/IncisionTime/Incision_Time
 PowerBI/find_Lastcase/Lastcase
 PowerBI/sort_Round/Data
+checkErrorDatabase43file/db1
+checkErrorDatabase43file/db2
 
 # Ignore log files
 *.log
